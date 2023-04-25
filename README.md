@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 Svelte, SvelteKit, Postgres, AWS Lambda
+- 👀 SvelteKit, Rust, Postgres, Elixir
 - 🌱 Vercel
 - 📫 fredrik.laapotti@gmail.com
 
