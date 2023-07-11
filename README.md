@@ -1,9 +1,5 @@
-- 👋 Hi
-- 👀 SvelteKit, Rust, Postgres, Elixir
-- 🌱 Vercel
+- 👋 Hi, I'm Fredrik, a hobby developer living in Sweden
+- 👀 SvelteKit, Python, Rust and Postgres satisfies my curiosity
+- 🌱 Vercel, WSL and the cheapest VM I can find is enough for my deployments
+-  ✒ Vim for single files and edits, Pycharm for that quick Python visualization and VS Code for everything else
 - 📫 fredrik.laapotti@gmail.com
-
-<!---
-fredriklaapotti/fredriklaapotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
