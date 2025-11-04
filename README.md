@@ -1,2 +1,1 @@
 - 👋 Hi, I'm Fredrik
-- 📫 fredrik.laapotti@gmail.com
