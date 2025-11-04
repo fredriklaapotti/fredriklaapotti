@@ -1,5 +1,2 @@
-- 👋 Hi, I'm Fredrik, a hobby developer living in Sweden
-- 👀 SvelteKit, Python, Rust and Postgres satisfies my curiosity
-- 🌱 Vercel, WSL and the cheapest VM I can find is enough for my deployments
--  ✒ Vim for single files and edits, Pycharm for that quick Python visualization and VS Code for everything else
+- 👋 Hi, I'm Fredrik
 - 📫 fredrik.laapotti@gmail.com
